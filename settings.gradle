@@ -1,0 +1,2 @@
+rootProject.name='android-Week7'
+include ':app'
